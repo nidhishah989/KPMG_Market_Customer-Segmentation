@@ -2,7 +2,7 @@
 - Purpose of this application to create segments of customers based on different combination of factors (revenue,purhcase history,products,geolocation)to improvised marketing stratergies for business growth.
 - Utilized **K-Means clustering** with elbow method to find K value.
 - Utilized **Streamlit** to show performance of model and result of customer segmentation with left factor selection sidebar.
-- OTher **Tools** utilized: jupyter-notebook,pandas, numpy, matplotlib, seaborn, sklearn, plotly.
+- OTher **Tools** utilized: **jupyter-notebook,pandas, numpy, matplotlib, seaborn, sklearn, plotly.**
 - Data: KPMG Transaction data
 - Gather all required packages list in requirement.txt
 
