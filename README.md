@@ -14,5 +14,3 @@
 ![Screenshot (175)](https://github.com/nidhishah989/KPMG_Market_Customer-Segmentation/assets/69876607/17e91d91-1977-4c3e-b45f-2b31a0aeeb9c)
 ![Screenshot (176)](https://github.com/nidhishah989/KPMG_Market_Customer-Segmentation/assets/69876607/15a487ed-ff74-4a33-a781-452d1d1d1d60)
 ![Screenshot (177)](https://github.com/nidhishah989/KPMG_Market_Customer-Segmentation/assets/69876607/3670f9bd-62f4-4eb7-9204-755d86d8e37f)
-
-#### machine-learning #### python ####K-Means #### clustering #### streamlit #### web-application
